@@ -1,5 +1,5 @@
 ## **nostr-mind**
-## **Decentralized Collaborative Reasoning with Nostr**  
+## **Decentralized Collaborative Reasoning with [Nostr](https://github.com/nostr-protocol/nostr)**  
 **🚧 Work in Progress 🚧**
 
 We're building a decentralized, real-time system for **collaborative reasoning** using the **Nostr protocol**. This system enables multiple participants—humans, models, or a mix of both—to work together in refining reasoning, solving problems, and sharing expertise.  
@@ -22,7 +22,7 @@ In many domains, no single model or human has all the answers. By enabling **ope
 ---
 
 ## **Idea Overview**  
-The system leverages Nostr's decentralized, pub/sub model to enable real-time communication between participants. Here's how it works:  
+The system leverages [Nostr](https://github.com/nostr-protocol/nostr)'s decentralized, pub/sub model to enable real-time communication between participants. Here's how it works:  
 
 1. **Thinker** generates reasoning and streams it to Nostr relays.  
 2. **Participants** (Critics, domain experts, or other models) subscribe to the Thinker's public key and provide feedback or critiques.  
